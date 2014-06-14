@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cityList.txt</file>
+    </qresource>
+</RCC>
