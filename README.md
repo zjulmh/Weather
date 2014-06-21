@@ -21,10 +21,16 @@ gcc
 ##截图 Snapshot
 
 ### windows 8 platform
-![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/detail.png "Detail")
+![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/windows/detail.png "Detail")
 
-![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/collect.png "Collect")
+![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/windows/collect.png "Collect")
 
+### linux platform
+![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/linux/main.png "main")
+
+![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/linux/detail.png "detail")
+
+![Image text](https://raw.github.com/zjulmh/Weather/master/snapshot/linux/add.png "setting")
 ##功能 Function
 *<del>添加多个城市并设置主城市</del>
 
